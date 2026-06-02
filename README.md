@@ -1,7 +1,6 @@
 ```
 > whoami
   Trindade · Lisbon, PT
-  QA Automation Engineer · builder of things that probably shouldn't exist
 
 > skills --list
 

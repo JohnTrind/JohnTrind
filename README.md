@@ -18,7 +18,7 @@
   espTerm            browser terminal on esp32, bt keyboard support
   espWiki            offline server + hue + ble sensors on esp32
   AIDocs_py          ocr pipeline for portuguese id cards (python + ollama)
-  espClaudeMonitor   claude usage on a tiny lcd
+  espClaudeMinitor   claude usage on a tiny lcd
 
 > echo $links
   linkedin.com/in/trindadej

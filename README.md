@@ -1,24 +1,22 @@
 <pre>
- __                           __               __
-/\ \__         __            /\ \             /\ \
-\ \ ,_\  _ __ /\_\    ___    \_\ \     __     \_\ \     __
- \ \ \/ /\`&#x27;__\/\ \ /&#x27; _ `\  /&#x27;_` \  /&#x27;__`\   /&#x27;_` \  /&#x27;__`\
-  \ \ \_\ \ \/ \ \ \/\ \/\ \/\ \L\ \/\ \L\.\_/\ \L\ \/\  __/
-   \ \__\\ \_\  \ \_\ \_\ \_\ \___,_\ \__/.\_\ \___,_\ \____\
-    \/__/ \/_/   \/_/\/_/\/_/\/__,_ /\/__/\/_/\/__,_ /\/____/
-</pre>
+ __                           __                
+/\ \__         __          __/\ \__             
+\ \ ,_\  _ __ /\_\    ___ /\_\ \ ,_\  __  __    
+ \ \ \/ /\`&#x27;__\/\ \ /&#x27; _ `\/\ \ \ \/ /\ \/\ \   
+  \ \ \_\ \ \/ \ \ \/\ \/\ \ \ \ \ \_\ \ \_\ \  
+   \ \__\\ \_\  \ \_\ \_\ \_\ \_\ \__\\/`____ \ 
+    \/__/ \/_/   \/_/\/_/\/_/\/_/\/__/ `/___/&gt; \
+                                          /\___/
+                                          \/__/ 
 
-<pre>
- ~> <strong>whoami</strong>
- qa automation engineer · lisbon, pt
- builder of things that probably shouldn't exist
-
- ~> <strong>finger trindade</strong>
- Login: trindade                         Name: João Trindade
- Directory: /home/lisbon                 Shell: /usr/bin/pytest
- Plan:
-   test automation by day, esp32 chaos by night.
-   currently poking at llms to see what they leak.
+ ~> <strong>neofetch</strong>
+        .--.       <strong>trinity@lisbon</strong>
+     .-(    ).     --------------
+    (___.__)__)    role    qa automation engineer
+      &#x27; &#x27; &#x27; &#x27;      uptime  6 years in qa
+                   day     test automation
+                   night   esp32 chaos
+                   now     poking at llms to see what they leak
 
  ~> <strong>ls ~/projects --public</strong>
    <a href="https://github.com/JohnTrind/invisible_probe_kit">invisible_probe_kit</a>   ascii smuggling QA harness for LLMs
